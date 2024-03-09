@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\wwwroot\\actores\\0415606e-5b1e-46ba-9da9-6561ed5fae99.jpg",
+      "PackagePath": "staticwebassets\\actores\\0415606e-5b1e-46ba-9da9-6561ed5fae99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\wwwroot\\actores\\0bea8b5a-101e-4359-a57a-a19e245024c5.jpg",
+      "PackagePath": "staticwebassets\\actores\\0bea8b5a-101e-4359-a57a-a19e245024c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\wwwroot\\actores\\1784991b-6475-4ed1-90ec-558e5724d394.jpg",
+      "PackagePath": "staticwebassets\\actores\\1784991b-6475-4ed1-90ec-558e5724d394.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\wwwroot\\actores\\28194be0-032e-4ff0-a278-703a6fe31dcb.jpg",
+      "PackagePath": "staticwebassets\\actores\\28194be0-032e-4ff0-a278-703a6fe31dcb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\wwwroot\\actores\\5bdc5408-2a34-4315-9a79-4162e72485c5.jpg",
+      "PackagePath": "staticwebassets\\actores\\5bdc5408-2a34-4315-9a79-4162e72485c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\wwwroot\\actores\\bf68afc2-2b23-44a8-92e4-2c762c7db8b2.jpg",
+      "PackagePath": "staticwebassets\\actores\\bf68afc2-2b23-44a8-92e4-2c762c7db8b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\wwwroot\\actores\\ec967445-be3f-4fbc-8dfd-07901d7cfc26.jpg",
+      "PackagePath": "staticwebassets\\actores\\ec967445-be3f-4fbc-8dfd-07901d7cfc26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\wwwroot\\peliculas\\073b6ef5-fa41-4f2e-8939-1c676ede41c0.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\073b6ef5-fa41-4f2e-8939-1c676ede41c0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\wwwroot\\peliculas\\3cf60be9-5f66-498f-8d9a-9d5d8a4f91bc.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\3cf60be9-5f66-498f-8d9a-9d5d8a4f91bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\wwwroot\\peliculas\\8c31a9ac-f910-40d5-8a90-ec5c1dfeb201.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\8c31a9ac-f910-40d5-8a90-ec5c1dfeb201.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\wwwroot\\peliculas\\d2ddb400-80ea-447a-90d0-4618fc487fd2.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\d2ddb400-80ea-447a-90d0-4618fc487fd2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\wwwroot\\peliculas\\f8f3c84d-199a-4708-ac08-361a5c7faa4f.jpeg",
+      "PackagePath": "staticwebassets\\peliculas\\f8f3c84d-199a-4708-ac08-361a5c7faa4f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\wwwroot\\peliculas\\fada03b1-4850-4127-8b99-d0125f5df06a.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\fada03b1-4850-4127-8b99-d0125f5df06a.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiPeliculas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiPeliculas.props",
+      "PackagePath": "build\\ApiPeliculas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiPeliculas.props",
+      "PackagePath": "buildMultiTargeting\\ApiPeliculas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiPeliculas.props",
+      "PackagePath": "buildTransitive\\ApiPeliculas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
