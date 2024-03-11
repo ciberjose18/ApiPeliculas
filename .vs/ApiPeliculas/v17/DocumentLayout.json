@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C448D857-13AE-4C86-A7B4-53311E794B56}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\administrador\\documents\\apipeliculas\\apipeliculas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C448D857-13AE-4C86-A7B4-53311E794B56}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C448D857-13AE-4C86-A7B4-53311E794B56}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\administrador\\documents\\apipeliculas\\apipeliculas\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C448D857-13AE-4C86-A7B4-53311E794B56}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C448D857-13AE-4C86-A7B4-53311E794B56}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\administrador\\documents\\apipeliculas\\apipeliculas\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C448D857-13AE-4C86-A7B4-53311E794B56}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C448D857-13AE-4C86-A7B4-53311E794B56}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\administrador\\documents\\apipeliculas\\apipeliculas\\entidades\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C448D857-13AE-4C86-A7B4-53311E794B56}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\entidades\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C448D857-13AE-4C86-A7B4-53311E794B56}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\administrador\\documents\\apipeliculas\\apipeliculas\\dtos\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C448D857-13AE-4C86-A7B4-53311E794B56}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\dtos\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +39,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApiPeliculas\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\appsettings.Development.json",
+              "RelativeToolTip": "ApiPeliculas\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T17:59:42.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApiPeliculas\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:09:07.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\Entidades\\Genero.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Entidades\\Genero.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\Entidades\\Genero.cs",
+              "RelativeToolTip": "ApiPeliculas\\Entidades\\Genero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:01:35.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\Entidades\\Actor.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Entidades\\Actor.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\Entidades\\Actor.cs",
+              "RelativeToolTip": "ApiPeliculas\\Entidades\\Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:01:32.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ActorDTO.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\ApiPeliculas\\ApiPeliculas\\DTOs\\ActorDTO.cs",
               "RelativeDocumentMoniker": "ApiPeliculas\\DTOs\\ActorDTO.cs",
@@ -30,8 +96,7 @@
               "RelativeToolTip": "ApiPeliculas\\DTOs\\ActorDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T03:14:51.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T03:14:51.833Z"
             }
           ]
         }
