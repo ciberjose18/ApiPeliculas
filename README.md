@@ -14,7 +14,7 @@ _Para poder inicializar el sistema se requiere lo siguiente :_
 
 ### Instalación 🔧
 ```
-Ejecutar la Query MinimalAPI.sql, para crear la base de datos
+- Ejecutar la Query MinimalAPI.sql, para crear la base de datos
 - Cambiar el servidor de base de datos al perteneciente a su equipo, en la ruta: appsettings.Development.json, en la linea
 "DefaultConnection": "Server=CIBER\\SQLEXPRESS2;Database=MinimalPeliculaApi;Integrated Security=True;TrustServerCertificate=True"
 
